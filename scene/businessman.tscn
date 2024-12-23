@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://braulx5betqjt"]
+
+[ext_resource type="Texture2D" uid="uid://bkjg8xtuok83x" path="res://Assets/businessman.png" id="1_r68xf"]
+[ext_resource type="Script" path="res://scripts/businessman.gd" id="2_udyfr"]
+
+[node name="Businessman" type="Sprite2D"]
+position = Vector2(96, 88)
+scale = Vector2(0.375, 0.341797)
+texture = ExtResource("1_r68xf")
+script = ExtResource("2_udyfr")
