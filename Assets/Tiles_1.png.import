@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://w30lgbx6w5yy"
-path="res://.godot/imported/robot.png-41f5b13a2eff0fa551ae1ec1d70a5b3c.ctex"
+uid="uid://7heu742gm25s"
+path="res://.godot/imported/Tiles_1.png-2d2596f5f5dd9eced5efb431be122b1a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/robot.png"
-dest_files=["res://.godot/imported/robot.png-41f5b13a2eff0fa551ae1ec1d70a5b3c.ctex"]
+source_file="res://Assets/Tiles_1.png"
+dest_files=["res://.godot/imported/Tiles_1.png-2d2596f5f5dd9eced5efb431be122b1a.ctex"]
 
 [params]
 
